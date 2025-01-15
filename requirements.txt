@@ -1,0 +1,2 @@
+pyinstaller==6.11.1
+psutil==6.1.1
