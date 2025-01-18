@@ -59,3 +59,5 @@
   ```
   pytest --cov=main tests/test_main.py    
   ```
+
+## Добавлен action в github
